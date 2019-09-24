@@ -1,3 +1,5 @@
+journal
+message
 !.gitignore
 !.htaccess
 !.htpasswd
@@ -6099,3 +6101,4 @@ zimbra
 zimbra/
 zone-h.php
 ~admin/
+bd
